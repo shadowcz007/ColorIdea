@@ -39,7 +39,7 @@ hi～
 ***
 ## IOS版本
 
-[IOS版本下载](http://itunes.apple.com/app/id1209933821)
+[IOS版本下载](https://itunes.apple.com/app/id1209933821)
 
 
 ## 「 意见反馈 」 
