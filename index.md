@@ -19,8 +19,7 @@ hi～
 你甚至可以……
 
 *** 
-
-主要功能：
+## 主要功能：
 
 「每日荐色」
 每天体验一种东方色彩，感悟传统色彩灵感。
@@ -38,8 +37,12 @@ hi～
 用不一样的颜色填充改造建筑大师的作品，关于颜色的放松方法。
 
 ***
+## IOS版本下载链接
 
-「 意见反馈 」 
+![Image](https://shadowcz007.github.io/ColorIdea/caiseios.png)
+
+
+## 「 意见反馈 」 
 
        Email:spyfari@163.com                  
        微信公众号:Free_Garden                    
