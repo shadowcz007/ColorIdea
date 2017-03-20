@@ -37,9 +37,9 @@ hi～
 用不一样的颜色填充改造建筑大师的作品，关于颜色的放松方法。
 
 ***
-## IOS版本下载链接
+## IOS版本
 
-[Link](http://itunes.apple.com/app/id1209933821)
+[IOS版本下载](http://itunes.apple.com/app/id1209933821)
 
 
 ## 「 意见反馈 」 
